@@ -31,7 +31,6 @@ como profissional.
 
 📊Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Magashi1556&repo=Analise_ecommerce_estatistica.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Previsão de Churn de Clientes em telecomunicações
 
