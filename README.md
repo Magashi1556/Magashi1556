@@ -20,8 +20,6 @@ como profissional.
 
 🛠Tecnologias e Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magashi1556&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 •Linguagens: Python, SQL
 
 •Bibliotecas: Pandas, PySpark, Matplotlib, Seaborn, Plotly
