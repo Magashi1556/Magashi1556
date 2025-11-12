@@ -58,14 +58,9 @@ E-commerce Insights
 
 🤝Conecte-se comigo
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/erikandreydataa/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/erikandreydataa/) : LinkedIn: https://www.linkedin.com/in/erikandreydataa/
 
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/seu_usuario/)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](em breve) : Em Breve
 
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:erikdata.a@gmail.com)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:erikdata.a@gmail.com) : E-mail: erikdata.a@gmail.com
 
-
-
-💼LinkedIn: https://www.linkedin.com/in/erikandreydataa/
-
-📧 E-mail: erikdata.a@gmail.com
